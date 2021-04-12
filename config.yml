@@ -29,7 +29,7 @@ db:
   user: wikijs
   pass: wikijsrocks
   db: wiki
-  ssl: false
+  ssl: true
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
   # -> Uncomment lines you need below and set `auto` to false
